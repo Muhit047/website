@@ -1,0 +1,115 @@
+body{
+    font-family: 'Poppins',sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.red-highlight{
+    color: crimson;
+}
+.half-widht{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-widht img{
+    width: 100%;
+    margin-top: 5px;
+    float: right;
+    padding-top: 150px;
+}
+.header{
+    background-image: url("personal-website/header-bg.png");
+    background-position: top ;
+    background-repeat: no-repeat;
+    padding-bottom: 500px;
+}
+section{
+    height: 500px;
+    padding-bottom: 0px;
+}
+.aro-niche2{
+    padding-top: 100px;
+}
+.aro-niche{
+    padding-top: 100px;
+}
+#nichee{
+    padding-top: 250px;
+    padding-left: 100px;
+}
+.my-latest-work{
+    padding-top: 250px;
+    text-align: center;
+    background-image: url(personal-website/latest-work-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+    }
+    .my-latest-work img{
+        height: 50%;
+        padding-top: 100px;
+        box-shadow: 5px 5px 10px rgb(232, 75, 75);
+        padding-inline: 20px;
+    }
+.biography{
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    padding-bottom: 400px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(crimson, red);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+.client{
+    text-align: center;
+    background-image: url(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    }
+.link-button2{
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(crimson, rgb(210, 0, 0));
+    padding: 40px 150px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+    margin: 0;
+    position: absolute;
+    top: 460%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+footer{
+    padding-bottom: 50px;
+}
+footer p{
+    text-align:center;
+    font-size: 12px;
+}
+#namin{
+    color: white;
+    font-size: 12px;
+}
+#nanin{
+    color:rgb(205, 232, 225);
+    font-size: 20px;
+}
+#hudai{
+    font-weight: 500;
+    color: black;
+}
